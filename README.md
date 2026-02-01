@@ -15,4 +15,4 @@ I share what I've learned.
 
 #### 👾 About me
 
-I'm obsessed with improving myself every day. It's not just about coding; I enjoy exercising every day, learning new things, and socializing.
+I'm obsessed with improving myself every day. It's not just about coding; I enjoy exercising, learning new things and socializing.
