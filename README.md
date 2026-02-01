@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**molarien/molarien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emir, a CS student based in Türkiye.
 
-Here are some ideas to get you started:
+I share what I've learned.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 What I'm focusing on
+
+- Java
+- Python
+- Data Structures & Algorithms
+- Backend Fundamentals
+- Mobile Development
+
+
+#### 👾 About me
+
+I'm obsessed with improving myself every day. It's not just about coding; I enjoy exercising every day, learning new things, and socializing.
