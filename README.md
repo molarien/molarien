@@ -7,6 +7,7 @@ I share what I've learned.
 #### 💻 What I'm focusing on
 
 - Java
+- GUI Design
 - Python
 - Data Structures & Algorithms
 - Backend Fundamentals
