@@ -8,6 +8,7 @@ I share what I've learned.
 
 - Java
 - GUI Design
+- SQL
 - Python
 - Data Structures & Algorithms
 - Backend Fundamentals
