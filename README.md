@@ -6,7 +6,7 @@ I share what I've learned.
 
 #### 💻 What I'm focusing on
 
-- Java
+- Java - Spring Boot
 - GUI Design
 - SQL
 - Python
