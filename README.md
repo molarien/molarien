@@ -7,11 +7,12 @@ I share what I've learned.
 #### 💻 What I'm focusing on
 
 - Java - Spring Boot
-- GUI Design
+- AI/ML
 - SQL
 - Python
 - Data Structures & Algorithms
 - Backend Fundamentals
+  
 
 
 #### 👾 About me
